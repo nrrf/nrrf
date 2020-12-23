@@ -10,4 +10,4 @@ Computer and Systems Engineering student at the National University of Colombia,
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 - ⚡ Fun fact: ... My favourite languages are Python, Java and Dart
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrrf&langs_count=8)](https://github.com/nrrf/github-readme-stats)
+
