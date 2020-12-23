@@ -10,4 +10,4 @@ Computer and Systems Engineering student at the National University of Colombia,
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 - ⚡ Fun fact: ... My favourite languages are Python, Java and Dart
-{{ LANGUAGE_PERCENT }}
+
