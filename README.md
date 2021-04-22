@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Computer and Systems Engineering student at the National University of Colombia, Passionate about Software development and data science
+Computer and Systems Engineering student at National University of Colombia, Passionate about Software development and data science
 
 - 🌱 I’m currently learning at National University of Colombia...
 <!--
